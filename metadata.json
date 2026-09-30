@@ -1,0 +1,6 @@
+{
+  "name": "성적 등급 계산기",
+  "description": "중간·기말·서술형·포트폴리오 환산 점수 및 실시간 등급, 목표 등급 달성 필요 점수 계산기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
